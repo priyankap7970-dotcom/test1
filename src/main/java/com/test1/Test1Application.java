@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test1Application {
-	Bengaluru
+	Hi Bengaluru
 	Welcome
 	Hello World
 	Pankaj sir academy
