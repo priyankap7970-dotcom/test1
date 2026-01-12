@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test1Application {
-	//some login code with otp
+###################ok boss################	
+//some login code with otp
 	//75%
 	#######this aove lines will be stored in a hidden git area +temp#######
 	ooty
