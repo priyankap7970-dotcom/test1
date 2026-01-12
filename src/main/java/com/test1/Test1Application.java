@@ -5,8 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test1Application {
+<<<<<<< Updated upstream
 ###################ok boss################	
 //some login code with otp
+=======
+	
+########error######################################################
+	//some login code with otp
+>>>>>>> Stashed changes
 	//75%
 	#######this aove lines will be stored in a hidden git area +temp#######
 	ooty
