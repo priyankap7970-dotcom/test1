@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test1Application {
-
+	Welcome
+	Hello World
+	Pankaj sir academy
+	pankaj sir academy
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
 	}
